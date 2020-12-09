@@ -2,18 +2,18 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-color: #f2f2f2;
 }
 
 .movie-card {
   background-color: #fff;
   border: 0;
-  box-shadow: 0 -1px 0 #e0e0e0, 0 0 2px rgba(0, 0, 0, 0.12),
-    0 2px 4px rgba(0, 0, 0, 0.24);
+  box-shadow: 5px 5px 5px blue;
   padding: 1rem;
   cursor: pointer;
   position: relative;
   margin: 1rem auto;
+  width: 500px;
+  border: 1px solid black;
 }
 
 .movie-director {
@@ -24,8 +24,8 @@ body {
 .saved-list {
   background-color: #fff;
   border: 0;
-  box-shadow: 0 -1px 0 #e0e0e0, 0 0 2px rgba(0, 0, 0, 0.12),
-    0 2px 4px rgba(0, 0, 0, 0.24);
+  box-shadow: 5px 5px 5px blue;
+  border: 1px solid black;
   padding: 1rem;
   cursor: pointer;
   position: relative;
